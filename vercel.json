@@ -8,10 +8,7 @@
           "distDir": "dist"
         }
       }
-    ],
-    "scripts": {
-      "build": "npm run build",
-      "install": "npm install"
-    }
+    ]
+    
   }
   
