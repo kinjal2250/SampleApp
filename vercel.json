@@ -9,14 +9,9 @@
         }
       }
     ],
-    "env": {
-      "NODE_VERSION": "14.17.0"
-    },
-    "routes": [
-      {
-        "src": "/(.*)",
-        "dest": "/index.html"
-      }
-    ]
+    "scripts": {
+      "build": "npm run build",
+      "install": "npm install"
+    }
   }
   
