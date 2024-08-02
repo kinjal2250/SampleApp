@@ -11,7 +11,7 @@
  
   body {
     font-family: 'Roboto', sans-serif;
-    background-image: url('/background-img2.jpg');
+    background-image: url('https://img.freepik.com/free-photo/blockchain-technology-background-gradient-blue_53876-124648.jpg?size=626&ext=jpg&ga=GA1.1.2008272138.1722384000&semt=ais_hybrid');
     background-size: cover; /* Ensures the image covers the entire background */
     background-position: center; /* Centers the image */
     background-repeat: no-repeat; /* Prevents the image from repeating */
